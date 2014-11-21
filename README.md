@@ -1,2 +1,2 @@
-# Try GitHub issue
-issue でいろいろ試す用
+# GitHub Playground
+GitHub の issue やら pull request をいろいろ試す場所
